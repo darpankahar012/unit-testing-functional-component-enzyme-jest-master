@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login Component should  renderproperly 1`] = `
+Array [
+  <div>
+    <input
+      name="firstName"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </div>,
+  <div>
+    <input
+      name="lastName"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </div>,
+  <div>
+    <input
+      name="email"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </div>,
+  <div>
+    <input
+      name="password"
+      onChange={[Function]}
+      type="password"
+      value=""
+    />
+  </div>,
+  <button
+    name="submit"
+    onClick={[Function]}
+    type="submit"
+  >
+    Login
+  </button>,
+]
+`;
+
+exports[`Login Component should render properly 1`] = `
+Array [
+  <div>
+    <input
+      name="firstName"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </div>,
+  <div>
+    <input
+      name="lastName"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </div>,
+  <div>
+    <input
+      name="email"
+      onChange={[Function]}
+      type="text"
+      value=""
+    />
+  </div>,
+  <div>
+    <input
+      name="password"
+      onChange={[Function]}
+      type="password"
+      value=""
+    />
+  </div>,
+  <button
+    name="submit"
+    onClick={[Function]}
+    type="submit"
+  >
+    Login
+  </button>,
+]
+`;
